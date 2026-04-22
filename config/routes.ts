@@ -97,4 +97,3 @@
 		component: './exception/404',
 	},
 ];
-
